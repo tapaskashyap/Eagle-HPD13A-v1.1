@@ -13,3 +13,5 @@ Eagle library for LoRa HPD13A SX1276
 - 100 dB blocking immunity.
 - Low RX current of 10 mA, 100 nA register retention.
 
+![alt text](https://drive.google.com/open?id=1Y7hVv48iRiDch09T29Y8exAoAagq3qT7)
+
